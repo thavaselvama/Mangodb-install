@@ -1,0 +1,21 @@
+mangoDB install steps:
+youtube reference
+https://www.youtube.com/watch?v=K_5mj3-_uJQ
+
+1.https://www.mongodb.com/download-center#community
+
+download Windows Server 2008 R2 64-bit and later, with SSL support x64 
+
+and install custom
+
+2.create C:\data 
+
+in data folder create  db sub folder
+
+3.Add enviornment variable path mangodb 
+
+ex:C:\Program Files\MongoDB\Server\3.4\bin
+this location add envornment varible system path
+
+4.open cmd type mongod
+5.open another cmd type mongo
